@@ -1085,7 +1085,7 @@ padding: 10px 0;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 767px) {
 #hero-banner h2 {
 margin-top: 161px;
 font-size: 26px;
@@ -1141,7 +1141,7 @@ padding: 7px 0 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #075394; /* Add your transparent background image */
+    background-color: #DAEAF7; /* Add your transparent background image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
